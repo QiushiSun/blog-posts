@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "/Users/qiushisun/Downloads/blog-posts",
+	"sourceRoot": "/Users/qiushisun/Desktop/blog-posts",
 	"sources": [
 		"themes/Dolt/assets/css/style.scss",
 		"themes/Dolt/assets/css/_variables.scss",
