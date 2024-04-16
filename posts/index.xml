@@ -20,5 +20,19 @@ Visit the Hugo website!!!
     </author><guid>https://qiushisun.github.io/blog-posts/posts/first_post/</guid>
     <description><![CDATA[IntroductionThis is bold text, and this is emphasized text.
 Visit the Hugo website!]]></description>
+</item><item>
+    <title>Code预训练语言模型学习指南（原理/分析/代码）Part2</title>
+    <link>https://qiushisun.github.io/blog-posts/posts/2022-7-codeptms-review2/</link>
+    <pubDate>Sat, 09 Jul 2022 20:00:03 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://qiushisun.github.io/blog-posts/posts/2022-7-codeptms-review2/</guid>
+    <description><![CDATA[<p>Code预训练语言模型学习指南（原理/分析/代码）Part2</p>]]></description>
+</item><item>
+    <title>Code预训练语言模型学习指南（原理/分析/代码）Part1</title>
+    <link>https://qiushisun.github.io/blog-posts/posts/2022-7-codeptms-review1/</link>
+    <pubDate>Wed, 06 Jul 2022 20:00:03 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://qiushisun.github.io/blog-posts/posts/2022-7-codeptms-review1/</guid>
+    <description><![CDATA[<p>Code预训练语言模型学习指南（原理/分析/代码）Part1</p>]]></description>
 </item></channel>
 </rss>

@@ -3,5 +3,19 @@
         <title>Categories - Category - Qiushi</title>
         <link>https://qiushisun.github.io/blog-posts/categories/</link>
         <description>Categories - Category - Qiushi</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://qiushisun.github.io/blog-posts/categories/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 09 Jul 2022 20:00:03 &#43;0000</lastBuildDate><atom:link href="https://qiushisun.github.io/blog-posts/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Code Intelligence</title>
+    <link>https://qiushisun.github.io/blog-posts/categories/code-intelligence/</link>
+    <pubDate>Sat, 09 Jul 2022 20:00:03 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://qiushisun.github.io/blog-posts/categories/code-intelligence/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>NLP</title>
+    <link>https://qiushisun.github.io/blog-posts/categories/nlp/</link>
+    <pubDate>Sat, 09 Jul 2022 20:00:03 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://qiushisun.github.io/blog-posts/categories/nlp/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
 </rss>
