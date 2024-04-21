@@ -1,21 +1,21 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Code Intelligence - Category - Qiushi</title>
-        <link>http://localhost:1313/blog-posts/categories/code-intelligence/</link>
+        <link>https://qiushisun.github.io/blog-posts/categories/code-intelligence/</link>
         <description>Code Intelligence - Category - Qiushi</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 09 Jul 2022 20:00:03 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/blog-posts/categories/code-intelligence/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 09 Jul 2022 20:00:03 &#43;0000</lastBuildDate><atom:link href="https://qiushisun.github.io/blog-posts/categories/code-intelligence/" rel="self" type="application/rss+xml" /><item>
     <title>Code预训练语言模型学习指南（原理/分析/代码）Part2</title>
-    <link>http://localhost:1313/blog-posts/posts/2022-7-codeptms-review-2/2022-7-codeptms-review2/</link>
+    <link>https://qiushisun.github.io/blog-posts/posts/2022-7-codeptms-review2/</link>
     <pubDate>Sat, 09 Jul 2022 20:00:03 &#43;0000</pubDate><author>
         <name>Author</name>
-    </author><guid>http://localhost:1313/blog-posts/posts/2022-7-codeptms-review-2/2022-7-codeptms-review2/</guid>
+    </author><guid>https://qiushisun.github.io/blog-posts/posts/2022-7-codeptms-review2/</guid>
     <description><![CDATA[<p>Code预训练语言模型学习指南（原理/分析/代码）Part2</p>]]></description>
 </item><item>
     <title>Code预训练语言模型学习指南（原理/分析/代码）Part1</title>
-    <link>http://localhost:1313/blog-posts/posts/2022-7-codeptms-review-1/2022-7-codeptms-review1/</link>
+    <link>https://qiushisun.github.io/blog-posts/posts/2022-7-codeptms-review1/</link>
     <pubDate>Wed, 06 Jul 2022 20:00:03 &#43;0000</pubDate><author>
         <name>Author</name>
-    </author><guid>http://localhost:1313/blog-posts/posts/2022-7-codeptms-review-1/2022-7-codeptms-review1/</guid>
+    </author><guid>https://qiushisun.github.io/blog-posts/posts/2022-7-codeptms-review1/</guid>
     <description><![CDATA[<p>Code预训练语言模型学习指南（原理/分析/代码）Part1</p>]]></description>
 </item></channel>
 </rss>
